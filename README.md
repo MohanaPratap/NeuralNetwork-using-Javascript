@@ -1,4 +1,5 @@
 Self-Driving Car Simulation in JavaScript (No Libraries)
+
 This project implements a self-driving car simulation using JavaScript and a simple neural network, without relying on any external libraries or frameworks. The car learns to navigate a road autonomously by processing inputs from sensors and controlling its movement based on a neural network model.
 
 Key Features:
